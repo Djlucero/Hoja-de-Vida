@@ -1,0 +1,396 @@
+@media all and (min-width: 1024px){
+
+header {
+    width: 100%;
+    height: 70%;
+    margin-top: 20px;
+    
+}
+
+nav{
+    width: 20%;
+    height: 160%;
+    float:left;
+  
+    
+}
+
+section {
+    width: 60%;
+    height: 160%;
+    float: left;
+    margin-top: 50px;
+    
+}
+
+aside{
+    width: 20%;
+    height: 160%;
+    float: left;
+}
+
+footer{
+    width: 100%;
+    height: 50%;
+    clear:both
+}
+ 
+h1{
+    font-size: 40px;
+    color: blueviolet;
+    text-align: center;
+    text-shadow: 5px -5px  5px gray;
+}
+
+a{
+    font-size: 15px;
+    text-decoration: none;
+    margin-left: 25px;
+    margin-top: 15px;
+    color:black;
+    background-color:lightgrey;
+    width: 190px;
+    border-radius: 5px;
+}
+
+a:hover{
+    background-color: mediumslateblue;
+    color: aqua;
+    float: left;
+}
+
+img{
+    width: 100px;
+    float: left;
+    margin-right: 15px;
+    box-shadow: 8px -8px 8px gray;
+}
+section p{
+    font-size: 25px ;
+   text-align: justify;
+   margin: 0 15px;
+}
+
+section h3{
+    margin-left: 150px;
+}
+
+section h5{
+    margin-left: 150px;
+}
+
+aside p {
+    font-size: 19px;
+    text-align: justify;
+    margin-top: 0;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+button {
+    border-radius: 15px;
+    margin-left: 300px;
+    color:  black;
+    background-color: lightgrey;
+}
+
+a.button{
+    text-align: center;
+    color: lightgrey;
+    background-color: grey;      
+}
+
+body{
+    background-image: url("https://st2.depositphotos.com/1029215/5351/v/950/depositphotos_53514185-stock-illustration-abstract-blue-purple-wave-background.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+
+}
+
+footer p{
+    font-size: 25px;
+    color: gray;
+    text-align: center;
+    font-weight: bolder;
+    padding-top: 10px;
+    
+}
+
+}
+
+@media all and (min-width: 641px) and (max-width: 1023px){
+
+    header {
+        width: 100%;
+        height: 70%;
+        
+    }
+    
+    nav{
+        width: 100%;
+        height: 60%;
+        word-spacing: 30px;
+        text-align: center;
+        padding-top: 25px;
+    }
+    
+    section {
+        width: 90%;
+        height: 160%;
+        margin-left: 20px;
+        
+        
+    }
+    
+    aside{
+        width: 35%;
+        height: 160%;
+        
+        
+    }
+    
+    footer{
+        width: 100%;
+        height: 50%;
+        clear:both
+    }
+
+
+  
+    
+    h1{
+        font-size: 40px;
+        color:blueviolet;
+        text-align: center;
+        text-shadow: 5px -5px  5px gray;
+        padding: 10px;
+
+    }
+   
+
+    a{
+        font-size: 15px;
+        text-decoration: none;
+        color:black;
+        background-color:lightgrey;
+        width: 150px;
+        border-radius: 5px;
+    }
+
+
+    
+    
+    a:hover{
+        background-color: mediumslateblue;
+        color: aqua;
+        
+    }
+
+
+    
+    
+    img{
+        width: 100px;
+        float: left;
+        margin-right: 20px;
+        box-shadow: 8px -8px 8px gray;
+    }
+
+    
+    section p{
+        font-size: 22px ;
+       text-align: justify;
+       margin: 0 15px;
+    }
+    
+    section h3{
+        margin-left: 150px;
+    }
+    
+    section h5{
+        margin-left: 150px;
+    }
+    
+    aside p {
+        font-size: 19px;
+        text-align: justify;
+        margin-top: 0;
+        margin-left: 10px;
+        margin-right: 10px;
+    }
+
+     
+    button {
+        border-radius: 15px;
+        margin-left: 300px;
+        color:  black;
+        background-color: lightgrey;
+    }
+    
+    a.button{
+        text-align: center;
+        color: lightgrey;
+        background-color: grey;      
+    }
+    
+    body{
+        background-image: url("https://st2.depositphotos.com/1029215/5351/v/950/depositphotos_53514185-stock-illustration-abstract-blue-purple-wave-background.jpg");
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        background-attachment: fixed;
+    
+    }
+    
+    footer p{
+        font-size: 25px;
+        color: gray;
+        text-align: center;
+        font-weight: bolder;
+        padding-top: 10px;
+       
+        
+    }
+    
+    }
+
+    
+    
+   
+    
+   
+
+
+@media all and (max-width: 640px){
+
+    header {
+        width: 100%;
+        height: 70%;
+        
+    }
+    
+    nav{
+        width: 100%;
+        height: 70%;
+        word-spacing: 20px;
+        text-align: center;
+        padding-top: 15px;
+    }
+    
+    section {
+        width: 100%;
+        height: 160%;
+        
+       
+    }
+    
+    aside{
+        width: 100%;
+        height: 160%;
+        
+       
+    }
+    
+    footer{
+        width: 100%;
+        height: 50%;
+        
+        
+    }
+    h1{
+        font-size: 30px;
+        color:blueviolet;
+        text-align: center;
+        text-shadow: 5px -5px  5px gray;
+        padding: 10px;
+    
+    }
+
+    a{
+        font-size: 15px;
+        text-decoration: none;
+        color:black;
+        background-color:lightgrey;
+        width: 150px;
+        border-radius: 5px;
+    }
+    
+    
+    a:hover{
+        background-color: mediumslateblue;
+        color: aqua;
+        
+    }
+    
+   
+    img{
+        width: 120px;
+        float: left;
+        margin-right: 15px;
+        box-shadow: 8px -8px 8px gray;
+      
+    }
+
+    
+    section p{
+        font-size: 18px ;
+       text-align: justify;
+       margin: 0 15px;
+    }
+
+    section h3{
+        margin-left: 150px;
+    }
+    section h2{
+        text-align: center;
+    }
+    
+    section h5{
+        margin-left: 150px;
+    }
+    
+    aside p {
+        font-size: 20px;
+        text-align: justify;
+        margin-top: 0px;
+        margin-left: 10px;
+        margin-right: 10px;
+        margin-top: 10px;
+    }
+    
+    button {
+        border-radius: 15px;
+        margin-left: 30 0px;
+        color:  black;
+        background-color: lightgrey;
+    }
+    
+    a.button{
+        text-align: center;
+        color: lightgrey;
+        background-color: grey;      
+    }
+    
+    body{
+        background-image: url("https://st2.depositphotos.com/1029215/5351/v/950/depositphotos_53514185-stock-illustration-abstract-blue-purple-wave-background.jpg");
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        background-attachment: fixed;
+    
+    }
+    footer p{
+        font-size: 25px;
+        color: gray;
+        text-align: center;
+        font-weight: bolder;
+        padding-top: 10px;
+    }
+
+}
+
+
+
+
