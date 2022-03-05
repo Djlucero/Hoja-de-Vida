@@ -39,11 +39,11 @@ h1{
     font-size: 40px;
     color: blueviolet;
     text-align: center;
-    text-shadow: 5px -5px  5px gray;
+    text-shadow: 8px -5px  5px gray;
 }
 
 a{
-    font-size: 15px;
+    font-size: 20px;
     text-decoration: none;
     margin-left: 25px;
     margin-top: 15px;
@@ -64,9 +64,10 @@ img{
     float: left;
     margin-right: 15px;
     box-shadow: 8px -8px 8px gray;
+    border-top-right-radius: 50px;
 }
 section p{
-    font-size: 25px ;
+    font-size: 20px ;
    text-align: justify;
    margin: 0 15px;
 }
@@ -96,8 +97,7 @@ button {
 
 a.button{
     text-align: center;
-    color: lightgrey;
-    background-color: grey;      
+         
 }
 
 body{
@@ -231,8 +231,7 @@ footer p{
     
     a.button{
         text-align: center;
-        color: lightgrey;
-        background-color: grey;      
+            
     }
     
     body{
@@ -335,7 +334,7 @@ footer p{
 
     
     section p{
-        font-size: 18px ;
+        font-size: 16px ;
        text-align: justify;
        margin: 0 15px;
     }
@@ -369,8 +368,7 @@ footer p{
     
     a.button{
         text-align: center;
-        color: lightgrey;
-        background-color: grey;      
+             
     }
     
     body{
